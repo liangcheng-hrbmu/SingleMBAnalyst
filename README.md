@@ -5,5 +5,5 @@
 This can be installed using:
 
 ```R
-devtools::install_github('PingWang7/SingleMBAnalyst')
+devtools::install_github('liangcheng-hrbmu/SingleMBAnalyst')
 ```
